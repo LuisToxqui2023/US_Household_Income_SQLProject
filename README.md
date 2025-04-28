@@ -19,4 +19,14 @@ Which States are the top 10 sum of land?
   9. Wisconsin
   10. Michigan
 
-W
+Which States are the top 10 sum of water?
+  1. Michigan
+  2. Texas
+  3. Florida
+  4. Minnesota
+  5. Louisiana
+  6. California
+  7. Alsaka
+  8. North Carolina
+  9. Washington
+  10. Wisonsin
